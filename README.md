@@ -1,6 +1,6 @@
 # ExamenTecnicas
 # Notas: 
-* Este es mi repositorio: 
+* Este es mi repositorio: https://github.com/Marc20035/ExamenTecnicas.git
 # Ejercicio:
 ## Ejercicio 1 
 Una empresa de mobiliario modular realiza ventas de varios tipos de «elementos». Los elementos pueden ser piezas simples o grupos de «elementos» que forma un «kit», con lo que un «kit» es un grupo de «elementos» de cualquiera de los dos tipos.
